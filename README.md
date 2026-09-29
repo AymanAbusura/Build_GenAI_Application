@@ -1,4 +1,4 @@
-::page{title="Build Your First GenAI Application The Right Way"}
+# Build GenAI Application
 
 ![demo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/TA4LkoCK7YtPp_xbBH4asg/genai-app-demo.gif) _you'll build the application pictured above!_
 
